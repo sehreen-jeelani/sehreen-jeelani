@@ -4,7 +4,7 @@
 # 💫 About Me:
 🎓 BTech Student in Data Science & AI.</br>
 🧠 I'm currently building my foundation in **Logic & Problem Solving**.</br>
-🎯 My primary focus is **Mastering DSA** to understandhow data moves efficiently.</br>
+🎯 My primary focus is **Mastering DSA** to understand how data moves efficiently.</br>
 🤝 I’m exploring how **Math & Logic** came together to create **Artificial Intelligence**.</br>
 🌱 I’m looking to connect with other **Student Developers** and **Mentors**,</br>
 
