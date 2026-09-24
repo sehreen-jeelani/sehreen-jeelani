@@ -1,38 +1,40 @@
-## Hi, I'm Sehreen!👋
-## Aspiring Developer | Student & Explorer
+# Hi, I'm Sehreen! 👋
 
-# 💫 About Me:
-🎓 BTech Student in Data Science & AI.</br>
-🧠 I'm currently building my foundation in **Logic & Problem Solving**.</br>
-🎯 My primary focus is **Mastering DSA** to understand how data moves efficiently.</br>
-🤝 I’m exploring how **Math & Logic** came together to create **Artificial Intelligence**.</br>
-🌱 I’m looking to connect with other **Student Developers** and **Mentors**,</br>
+### 🎓 B.Tech Data Science & AI Student | Learning by Building
 
-## 💬 Ask me about:
-📚 **First-Year Life:** How I'm balancing BTech studies with self-learning.</br>
-🐍 **Python/C:** The language I'm currently using to conquer DSA.
+I’m building my foundation in mathematics, logic, algorithms, and computational thinking while exploring different areas of Data Science & AI.
 
-   
-## ⚡ Fun fact:
-"I'm like a **Binary Search** I might not have all the answers yet,</br>
-but I'm narrowing down my options and getting closer to the goal every day!" 🔍
+I use projects to understand not just how tools work, but also the concepts and reasoning behind them.
 
-### 🛠️ Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛠️ Tech Stack & Tooling
+
+- **Languages & Core:** Python • C • SQL
+- **Data & Development:** Pandas • Matplotlib • Seaborn • MySQL • Git • GitHub
+
+
+### 🚀 Key Projects
+
+#### [🚢 Titanic Survival Analysis](https://github.com/sehreen-jeelani/titanic-survival-analysis)
+
+- **Goal:** Explore passenger survival patterns through data analysis and statistical reasoning.
+- **Tech:** Python, Pandas, Seaborn, Statistics
+- **Key Takeaway:** Practiced data cleaning, missing value handling, feature engineering, exploratory analysis, and statistical interpretation.
+
+#### [🎬 StreamVault](https://github.com/sehreen-jeelani/streamvault-database)
+
+- **Goal:** Design a relational database for a Netflix style streaming platform.
+- **Tech:** MySQL, ER Diagramming, Relational Constraints
+- **Key Takeaway:** Practiced normalization (3NF), relational constraints, and multi-table JOINs while designing a connected database schema.
+
+
+### 🔍 Currently Exploring
+
+I'm exploring different areas of Data Science & AI through coursework and projects, while strengthening my foundations in programming, mathematics, databases, statistics, and algorithms.
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sehreen-jeelani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🤝 Connect & Collaborate
 
-### 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sehreen-jeelani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sehreenziya53@gmail.com) 
-
-## 🔍 What I'm Focused On Right Now:
-### 🚢 Titanic Survival Analysis (Research Phase)
-I am currently deep in the *Research & Data Acquisition* phase of a data science project. I’m fascinated by how historical data can be used to predict outcomes and tell a story.
-
-### 🤝 Let's Chat:
-Are you also interested in *Data Science* or *Machine Learning*? I'd love to hear about your favorite datasets or research methods!
-
-
+- 💼 **LinkedIn:** [Sehreen Jeelani](https://www.linkedin.com/in/sehreen-jeelani-0a5329383)
+- 💬 **Ask me about:** Python/C fundamentals, SQL & database design, or my learning projects.
